@@ -38,4 +38,15 @@ The Seattle Vegans are an actve group here to support you on your journey with r
 
 ### Informational videos 📖
 
-[![Animal Suffering](https://i.ytimg.com/vi/8jesjyFQd6o/hq720.jpg?sqp=-oaymwEdCJUDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLCGvjT4SofR7t7e36S7tQ-wD0Af8Q)](https://www.youtube.com/watch?v=mZsm2_TdFa)
+#### Animal Suffering
+[<img src="https://i.ytimg.com/vi/8jesjyFQd6o/hq720.jpg?sqp=-oaymwEdCJUDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLCGvjT4SofR7t7e36S7tQ-wD0Af8Q" alt="drawing" width="300"/>](https://www.youtube.com/shorts/8jesjyFQd6o)
+
+#### Every Argument Against Veganism
+[<img src="https://i.ytimg.com/vi/byTxzzztRBU/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKnM53F0d1p5OS-pw__2aJH88MfQ" alt="drawing" width="300"/>](https://www.youtube.com/watch?v=byTxzzztRBU&pp=ygUaZWFydGhsaW5nIGVkIGh5cHJvY3JpdGljYWw%3D)
+
+#### Vegan Gives Out Cat Milk Cheese
+[<img src="https://i.ytimg.com/vi/AO3EaSB2Tnk/hqdefault.jpg?sqp=-oaymwEcCPYBEIoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBOWXhN1w69di4ZzJTYMKrxcOj6X" alt="drawing" width="300"/>](https://www.youtube.com/watch?v=AO3EaSB2Tnk)
+
+#### Free Vegan Documentary List
+[<img src="https://documentarynight.files.wordpress.com/2022/03/veganuary-picture-4.png?w=1478" alt="drawing" width="300"/>](https://documentarynight.files.wordpress.com/2023/08/january-veganuary-2023e-1.pdf)
+(over 200 free vegan documentaries covering topics like land/sea life, nutrition, and activists and their motivations)
